@@ -1,0 +1,8 @@
+{
+  "registryUrl":         "https://your-registry-backend.com",
+  "chainSelectorName":   "ethereum-testnet-sepolia",
+  "receiverContract":    "0xYourDeployedSmartBridgeReceiverAddress",
+  "tokenContract":       "0xYourERC20TokenAddressOnSepolia",
+  "gasLimit":            "300000",
+  "authorizedSignerAddress": "0xYourAuthorizedEVMAddressHere"
+}

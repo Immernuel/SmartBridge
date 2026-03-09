@@ -1,0 +1,8 @@
+{
+  "registryUrl":         "http://localhost:30001",
+  "chainSelectorName":   "ethereum-testnet-sepolia",
+  "receiverContract":    "0x55c5ba3F0BDebFEea0ea150c6EaBa00b15e4740e",
+  "tokenContract":       "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+  "gasLimit":            "300000",
+  "authorizedSignerAddress": "0x0000000000000000000000000000000000000000"
+}
